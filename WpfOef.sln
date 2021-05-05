@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfOef", "WpfOef\WpfOef.csproj", "{C46682ED-F2CF-4721-8A3A-AD9E7DA498EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C46682ED-F2CF-4721-8A3A-AD9E7DA498EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46682ED-F2CF-4721-8A3A-AD9E7DA498EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46682ED-F2CF-4721-8A3A-AD9E7DA498EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46682ED-F2CF-4721-8A3A-AD9E7DA498EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {794B9C65-3963-4261-B91E-BA4B060F8716}
+	EndGlobalSection
+EndGlobal
